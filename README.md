@@ -4,3 +4,4 @@ Insertion some changes in remote repo
 Changes done at local repo
 one more changes done at local
 chaging changes at remote
+Changes to check fetch at local
